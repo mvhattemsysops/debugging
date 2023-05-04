@@ -17,7 +17,7 @@ function Start-RPSGame {
             Start-Sleep -Milliseconds 500
             Write-OutRPSOption
             $Round++
-            Write-output "`n`n"
+            Write-output "`n`n"     
             Start-Sleep -Seconds 2
             }
         }
